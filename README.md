@@ -1,4 +1,4 @@
-# AquaCareIoT
+# AquaCare
 The AquaCare Project is designed to ensure the well-being of your pet fishes even when you are away for extended periods. With our innovative prototype, you can effortlessly manage and monitor your aquarium's environment remotely, ensuring your aquatic friends receive the best care possible.
 
 # Key Features
